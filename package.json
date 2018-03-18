@@ -1,6 +1,6 @@
 {
   "name": "jest-skipped-reporter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Report skipped tests in Jest",
   "main": "index.js",
   "repository": "https://github.com/rickhanlonii/jest-skipped-reporter",

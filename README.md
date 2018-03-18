@@ -5,6 +5,7 @@
 Report skipped tests in Jest
 
 ## Installation
+
 Using yarn:
 
 ```bash
